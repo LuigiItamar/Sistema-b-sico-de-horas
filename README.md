@@ -1,1 +1,1 @@
-# Sistema-b-sico-de-horas sistema basico de horas.
+Sistema básico de horas
